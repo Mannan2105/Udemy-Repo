@@ -1,1 +1,3 @@
 I made this file because the udemy course asked me to.
+
+I am gonna make write this thing to see how merge conflicts work (I dont think this will cause a problem)
